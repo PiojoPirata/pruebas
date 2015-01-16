@@ -13,6 +13,8 @@ class Carbol extends CI_Controller {
         $this->load->view('template/header',$data);
         $this->load->view('arbol');
         $this->load->view('template/footer');
+        
+        //este cambio es para usar git
     }
     
     
