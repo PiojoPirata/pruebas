@@ -34,7 +34,7 @@ $(document).ready(function(){
 
 <body>
 <h1>Arboles</h1>
-
+ahora tengo en cuenta esto
 <div ><table id="flex1" style="text-align: center;"></table></div>
     <table><tr>
         <td>
