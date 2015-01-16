@@ -13,7 +13,7 @@
         public function mgrilla($datos = array()) {
             $data = array();
             $rp =10;// $datos['rp'];
-            $data['page'] = $datos['page']; //numero de pagina
+            $data['page'] = $datos['page']; //numero de pagina.
             $data['rp'] =10; // $datos['rp'];   //registros por pagina
             $qtype = $datos['qtype'];    //campo de busqueda
             $query = $datos['query'];     //dato introducido por el usuario

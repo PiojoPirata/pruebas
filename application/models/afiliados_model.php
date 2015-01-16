@@ -6,7 +6,7 @@
                 return true;
             }
             else{
-                echo "Se produjo un error..intente nuevamente";
+                echo "Se produjo un error..intente nuevamente..";
             }
         }
         

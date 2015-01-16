@@ -26,6 +26,7 @@
             <?php if ($this->session->userdata['permiso']==1){ //Valido que el usuario tenga los permisos
                 echo "<li><a href='index.php/afiliados/cnuevo'>Añade un nuevo afiliado</a></li>";
             }
+            //hola
              ?>
             <li><a href="index.php/afiliados/ccargafamiliares">Consulta de Afiliados</a></li>
             <li><a href="index.php/afiliados/clistadofliares">Listado de Familiares</a></li>

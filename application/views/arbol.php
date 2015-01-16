@@ -8,7 +8,7 @@ $(document).ready(function(){
         dataType: 'json',
         colModel : [
             {display: 'Id', name : 'iden', width : 80, sortable : false, align: 'left'},
-            //{display: 'CuentaVieja', name : 'cuenv', width : 300, sortable : false, align: 'left'},
+
             //{display: 'CuentaNueva', name : 'cuenn', width : 100, sortable : false, align: 'left'},
             {display: 'Denominacion', name : 'deno', width : 80, sortable : false, align: 'left'},
         ],

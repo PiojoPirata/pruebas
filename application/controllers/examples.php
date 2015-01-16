@@ -24,11 +24,7 @@ class Examples extends CI_Controller {
 		$this->_example_output($output);
 	}
 	
-	function index()
-	{
-		$this->_example_output((object)array('output' => '' , 'js_files' => array() , 'css_files' => array()));
-	}	
-	
+		
 	function offices_management()
 	{
 		try{
