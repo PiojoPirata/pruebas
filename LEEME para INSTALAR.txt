@@ -1,0 +1,7 @@
+Pasos a seguir para instalar sistema:
+1)Instalar XAMPP
+2)Instalar conector de Postgresql
+3)Copiar carpeta del proyecto en htdocs
+4)Copiar carpeta de reportes en tomcat\webapp\birt
+5)Configurar archivo database con la conexion al servidor
+
